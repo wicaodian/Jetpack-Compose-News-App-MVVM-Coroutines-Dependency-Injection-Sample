@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.JetpackComposeNewsApp" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="SplashScreenTheme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/news</item>
+        <item name="postSplashScreenTheme">@style/Theme.JetpackComposeNewsApp</item>
+    </style>
+</resources>

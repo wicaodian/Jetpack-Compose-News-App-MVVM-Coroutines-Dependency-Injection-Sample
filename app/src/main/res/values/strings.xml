@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jetpack Compose News App</string>
+    <string name="no_news_available_for_now">No News Available For Now</string>
+</resources>
