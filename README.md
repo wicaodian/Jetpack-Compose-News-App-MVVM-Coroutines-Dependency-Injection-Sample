@@ -6,6 +6,7 @@ This Android application is designed to fetch and display news articles using Je
 
 # Setup
 Go to **https://newsapi.org/** to get your key and add it to `ApiService.kt` which is under data->api
+
 Go to Data -> `AppConstants` and change country to random and then it will execute No data Found under `HomeScreen.kt`
 ## Features
 
