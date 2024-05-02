@@ -16,7 +16,6 @@ Go to **https://newsapi.org/** to get your key and add it to `ApiService.kt` und
 - **Hilt Dependency Injection**: Implements Hilt for dependency injection to simplify the dependency management and increase the scalability of the application.
 - **Modular Android App Development**: Supports modular architecture to promote separation of concerns and reusability of code across different parts of the application.
 - **Error Handling**: Robust error handling mechanisms to deal with network issues and data parsing errors.
-- **Centralized Dependency Management**: Utilizes a buildSrc directory for managing dependencies centrally, which helps maintain version consistency across all modules.
 - **Responsive and Adaptive UI**: The app UI adapts smoothly to different Android devices and orientations.
 
 
