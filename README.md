@@ -5,8 +5,8 @@
 This Android application is designed to fetch and display news articles using Jetpack Compose, following the MVVM architecture. It integrates Retrofit for network operations, Coroutines for asynchronous tasks, and Hilt for dependency injection, ensuring a robust and maintainable codebase.
 
 # Setup
-Go to **https://newsapi.org/** to get your key and add it to `ApiService.kt` under data->api
-
+Go to **https://newsapi.org/** to get your key and add it to `ApiService.kt` which is under data->api
+Go to Data -> `AppConstants` and change country to random and then it will execute No data Found under `HomeScreen.kt`
 ## Features
 
 - **Jetpack Compose UI**: Fully functional user interface built using the latest Jetpack Compose, ensuring a modern and efficient way to build native UIs on Android.
